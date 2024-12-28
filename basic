@@ -14,3 +14,11 @@
 4. go to the filter bar on top and type http 
 5. right click on the ip address
     click on follow, the HTTP stream
+
+### Looking for Secure request in wireshark
+1. open wireshark 
+2. open the adapter 
+    capture packets
+3. go in filter bar 
+    type: tcp.port==80
+    stop capturing
