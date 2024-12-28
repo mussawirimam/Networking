@@ -12,4 +12,5 @@
 3. load a http site
     stop capturing
 4. go to the filter bar on top and type http 
-5. follow the stream of http
+5. right click on the ip address
+    click on follow, the HTTP stream
