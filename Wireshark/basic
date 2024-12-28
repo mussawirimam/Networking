@@ -22,3 +22,11 @@
 3. go in filter bar 
     type: tcp.port==80
     stop capturing
+
+### Creating a filter button
+1. go to the filter bar and go all the way right, you will see + symbol 
+2. filter button preferrences will pop up
+  1. in labels you can label the filter on filter bar (tcp.port==80)
+  2. give it a label name label: HTTPS
+  3. click ok
+3. look all the way to your right, next to the fitler bar there is HTTPS button added
